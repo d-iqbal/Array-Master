@@ -1,1 +1,2 @@
-# Array-Master
+# array-visualizer
+Array Visualizer Program
